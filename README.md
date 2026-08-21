@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulakhare9/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Rahulakhare9/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
